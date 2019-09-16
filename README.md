@@ -10,6 +10,6 @@ Decription about my skills and hobbies.
 - must have desktop or a smart phone
 - open terminal ctlr+alt+T 
 - Navigate to portfolio
-- git init
+- Initialize git > git init
 #live link
- -cick here to opeen  https://francis-mbithi.github.io/portfolio/
+ -cick here to open >  https://francis-mbithi.github.io/portfolio/
