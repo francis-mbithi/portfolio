@@ -6,10 +6,10 @@ Decription about my skills and hobbies.
 -HTML
 -CSS
 # project setup instructons
-- must have strong internet connection
-- must have desktop or a smart phone
-- open terminal ctlr+alt+T 
+- Must have strong internet connection
+- Must have desktop or a smart phone
+- Open terminal ctlr+alt+T 
 - Navigate to portfolio
 - Initialize git > git init
 #live link
- -cick here to open >  https://francis-mbithi.github.io/portfolio/
+ -Click here to open >  https://francis-mbithi.github.io/portfolio/
