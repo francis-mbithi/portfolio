@@ -11,5 +11,5 @@ Decription about my skills and hobbies.
 - Open terminal ctlr+alt+T 
 - Navigate to portfolio
 - Initialize git > git init
-#live link
+# live link
  -Click here to open >  https://francis-mbithi.github.io/portfolio/
