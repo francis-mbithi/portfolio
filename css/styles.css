@@ -1,0 +1,29 @@
+h1{
+  color: aqua;
+}
+h2 {
+  color: aqua;
+  font-style: italic;
+  text-align: center;
+}
+img{
+  align-content: left;
+}
+h1{
+    text-align: center;
+}
+.testbox{
+  border: 2px solid mediumaquamarine;
+  background-color: aqua;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.column {
+    width: 350px;
+    float: right;
+  }
