@@ -1,7 +1,7 @@
 # my portfolio
 ## Author *Francis Mbithi*
 # A portfolio 
-decription about my skills 
+decription about my skills and hobbies
 # Technologies
 -HTML
 -CSS
@@ -12,4 +12,4 @@ decription about my skills
 - Navigate to portfolio
 - git init
 #live link
- -cick here to open
+ -cick here to opeen  https://francis-mbithi.github.io/portfolio/
