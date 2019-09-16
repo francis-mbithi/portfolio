@@ -1,4 +1,4 @@
-# my portfolio
+# My portfolio
 ## Author *Francis Mbithi*
 # A portfolio 
 Decription about my skills and hobbies.
