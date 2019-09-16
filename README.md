@@ -1,7 +1,7 @@
 # my portfolio
 ## Author *Francis Mbithi*
 # A portfolio 
-decription about my skills and hobbies
+Decription about my skills and hobbies.
 # Technologies
 -HTML
 -CSS
