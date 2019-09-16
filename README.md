@@ -5,7 +5,7 @@ decription about my skills
 # Technologies
 -HTML
 -CSS
-#project setup instructons
+# project setup instructons
 - must have strong internet connection
 - must have desktop or a smart phone
 - open terminal ctlr+alt+T 
